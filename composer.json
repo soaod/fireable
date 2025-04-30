@@ -9,12 +9,6 @@
             "homepage": "https://envant.me"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "git@github.com:soaod/fireable.git"
-        }
-    ],
     "homepage": "https://github.com/envant/fireable",
     "keywords": [
         "Laravel",
