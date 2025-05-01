@@ -1,5 +1,5 @@
 {
-    "name": "envant/fireable",
+    "name": "salla/fireable",
     "description": "An elegant way to trigger events based on attributes changes",
     "license": "MIT",
     "authors": [
